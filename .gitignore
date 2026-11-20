@@ -118,3 +118,15 @@ run/
 !gradle-wrapper.jar
 
 lib/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Graphify output
+graphify-out/
+
+# Claude Code local settings
+.claude/settings.local.json

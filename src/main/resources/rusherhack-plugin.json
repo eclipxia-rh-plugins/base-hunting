@@ -2,12 +2,13 @@
   "Plugin-Class": "org.example.ExamplePlugin",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "Example rusherhack plugin",
+  "Description": "Base hunting addon (spiral)",
   "URL": "https://github.com/RusherDevelopment/example-plugin",
   "Authors": [
-    "John200410"
+    "eclipxia"
   ],
   "Minecraft-Versions": [
-    "${project.minecraft_version}"
+    "1.21.4",
+    "1.21.11"
   ]
 }
